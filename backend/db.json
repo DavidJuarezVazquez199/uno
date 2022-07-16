@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    },
+    {
+      "email": "alumno@example.com",
+      "password": "alumno12345",
+      "id": 3
+    },
+    {
+      "email": "sdsas@asdajsk",
+      "password": "$2a$10$okSovturZx0Sck8.1uBfP.jWeG0h0Km5.ASr1MWx02OPK0fTjI4Pu",
+      "id": "bkolcmxshul58xhd56"
+    },
+    {
+      "email": "ve09940@innovaccion.mx",
+      "password": "$2a$10$6NQ.Gz1BuXSKGj5gSwKBxO9ekt54FiqBx/cAMWjm.fwwKqn14BktG",
+      "id": "6"
+    },
+    {
+      "email": "estrella95@tese.edu.mx",
+      "password": "$2a$10$.uY5/uEMX079NYEEnRRlCOCUsuGKIwmqyHE.LBBXD/NKprybZOtBa",
+      "id": "9"
+    },
+    {
+      "email": "201921483@tese.edu.mx",
+      "password": "$2a$10$hlJ3Bz0sUOEr.qBXeT90eeaWwcCT4ZTYyZ2x7YcOesXgFh.KigtPa",
+      "id": "98"
+    },
+    {
+      "email": "papas@tese.edu.mx",
+      "password": "$2a$10$wWMJKeJAKq72K4aTRhKrk.nO4LpipswDu7FCgfnoiDT4sBY3ERHu2",
+      "id": "15"
+    },
+    {
+      "email": "lol9@tese.edu.mx",
+      "password": "$2a$10$wThVrlQlVxTNRhzdI3uHveml5h5MtDQmh9OfyPpxfMa/XDesmcqLy",
+      "id": "64"
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": "Yoda",
+      "stock": 9,
+      "price": 399.99,
+      "Img": "yoda.jpg",
+      "shortDesc": "Era uno de los más renombrados y poderosos Maestros Jedi durante toda la historia de la Galaxia.",
+      "description": "Siendo el maestro más perceptivo de la Orden, él fungió como Gran Maestro durante las Guerras Clon y la fundación del Imperio Galáctico."
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": "Chewbacca",
+      "stock": 19,
+      "Img": "chewbacca.jpg",
+      "price": 299.99,
+      "shortDesc": " Es un Wookiee del planeta Kashyyyk.",
+      "description": "Chewbacca nació en Kashyyyk 180 años antes del advenimiento de la Guerra de los Clones, y durante ese tiempo, se casó con una wookie femenina llamada Malla, con quien tuvo un hijo, llamado Lumpawaroo."
+    },
+    {
+      "id": "aoe8wvdxvrkfqsew67",
+      "name": "Han-solo",
+      "stock": 14,
+      "Img": "han-solo.jpg",
+      "price": 149.99,
+      "shortDesc": ". Está casado con Leia Organa y tiene un hijo con ella llamado Ben.",
+      "description": "Han y su co-piloto wookiee Chewbacca se involucran en la Alianza Rebelde contra el Imperio Galáctico."
+    },
+    {
+      "id": "bmfrurdkswtkfqsf15j",
+      "name": "R2-D2",
+      "Img": "r2-d2.jpg",
+      "stock": 3,
+      "price": 109.99,
+      "shortDesc": "R2-D2 es un robot del tipo R2, perteneció a las fuerzas de defensa en Naboo, sirvió al Rey Veruna durante su término.",
+      "description": " Este droide siempre estuvo alojado en la Nave Real de Naboo, al igual que otros congéres con la simple función de reparar cualquier parte de la nave y asistir como navegantes."
+    },
+    {
+      "id": "rlxiuw3muthl56qgt85",
+      "name": "Leia",
+      "price": "1",
+      "Img": "leia.jpg",
+      "stock": 23,
+      "shortDesc": "La Princesa Leia Organa de Alderaan es un personaje de ficción de la saga Star Wars.",
+      "description": "La Princesa Leia Organa de Alderaan es un personaje de ficción de la saga Star Wars."
+    },
+    {
+      "id": "0b3ndwv5d9ysl56qvzsy",
+      "name": "Baby Yoda",
+      "price": "9",
+      "Img": "yodi.jpg",
+      "stock": 3,
+      "shortDesc": "Grogu, conocido por muchos simplemente como «el Niño», fue un Iniciado Jedi y expósito mandaloriano sensible a la Fuerza.",
+      "description": "pertenecía a la misma especie del Gran Maestro Jedi Yoda y la Maestra Jedi Yaddle. Grogu nació alrededor de 41 ABY, y fue criado en el Templo Jedi en Coruscant. "
+    }
+  ]
+}

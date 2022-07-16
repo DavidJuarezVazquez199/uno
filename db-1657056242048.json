@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    },
+    {
+      "email": "alumno@example.com",
+      "password": "alumno12345",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": "SHOES",
+      "stock": 9,
+      "price": 399.99,
+      "Img": "https://img.lalr.co/cms/2017/12/05165632/Zapatos.jpg",
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": "BAG",
+      "stock": 19,
+      "Img": "https://http2.mlstatic.com/D_NQ_NP_911340-MLM48893949871_012022-W.jpg",
+      "price": 299.99,
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "aoe8wvdxvrkfqsew67",
+      "name": "T-SHIRTT",
+      "stock": 14,
+      "Img": "https://contents.mediadecathlon.com/p2209752/k$aa14f02c2216f1149f5d4f66ccb6bcc3/sq/8665938.jpg?format=auto&f=800x0",
+      "price": 149.99,
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "bmfrurdkswtkfqsf15j",
+      "name": "SHORTS",
+      "Img": "https://www.lavanguardia.com/files/image_948_465/uploads/2020/08/22/5faa5b9aaa15a.jpeg",
+      "stock": 3,
+      "price": 109.99,
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "rlxiuw3muthl56qgt85",
+      "name": "Estrella",
+      "price": "1",
+      "Img": "https://www.lavanguardia.com/files/image_948_465/uploads/2020/08/22/5faa5b9aaa15a.jpeg",
+      "stock": 23,
+      "shortDesc": "util",
+      "description": "se estresa y rueda"
+    },
+    {
+      "id": "0b3ndwv5d9ysl56qvzsy",
+      "name": "Jacky",
+      "price": "9",
+      "Img": "https://http2.mlstatic.com/D_NQ_NP_911340-MLM48893949871_012022-W.jpg",
+      "stock": 3,
+      "shortDesc": "TIERNA Y AMABLE",
+      "description": "MMM "
+    },
+    {
+      "id": "l5uidbi2qghl56rel87",
+      "name": "daniel",
+      "price": "99",
+      "Img": "https://img.lalr.co/cms/2017/12/05165632/Zapatos.jpg",
+      "stock": 63,
+      "shortDesc": "chino",
+      "description": "nice"
+    },
+    {
+      "id": "mhqjq7ql9kjl56rm0qj",
+      "name": "eeeee",
+      "price": "65",
+      "Img": "https://http2.mlstatic.com/D_NQ_NP_911340-MLM48893949871_012022-W.jpg",
+      "stock": 53,
+      "shortDesc": "665",
+      "description": "665"
+    }
+  ]
+}
